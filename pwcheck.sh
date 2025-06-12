@@ -1,4 +1,5 @@
 #!/bin/bash
+# Prints the matching char every line and then wc -l counts every line
 FUNCTION: Actually checks the code ======================================================================
 passwordChecker() {
 
